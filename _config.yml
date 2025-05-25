@@ -1,5 +1,10 @@
 title: Kumar Korps Trucking
 description: Reliable and competitive trucking services.
 url: "https://kumarkorps.com"
-theme: jekyll-theme-slate
-###
+theme: minima
+
+header_pages:
+  - what-we-do.md
+  - what-we-offer.md
+  - how-different.md
+  - get-quote.md
