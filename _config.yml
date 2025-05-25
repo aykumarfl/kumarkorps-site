@@ -1,0 +1,22 @@
+
+title: Kumar Korps Trucking
+email: akumarfl@gmail.com
+description: >- 
+  Reliable, competitive, and dedicated trucking services.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kumarkorps.com" # the base hostname & protocol
+twitter_username: kumarkorps
+github_username: aykumarfl
+
+# Navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "What We Do"
+    url: /what-we-do/
+  - title: "What We Offer"
+    url: /what-we-offer/
+  - title: "How We're Different"
+    url: /how-different/
+  - title: "Get a Quote"
+    url: /get-quote/
